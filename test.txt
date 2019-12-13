@@ -3,4 +3,5 @@ whoo!
 edited on mba
 edited in Windows FS
 edited in WSL
+edited in Windows MinGW
 
